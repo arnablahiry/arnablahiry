@@ -1,5 +1,6 @@
+## Hello there!
 
-- 😄 Pronouns: He/him
+- 😄 My pronouns: He/him
 - 🔭 Currently working on machine learning in astrophysics and cosmology
 - 🌱 Final year Master's student at IISER Tirupati, India
 - ✨ Master's Dissertation Project at Flatiron Institute, Simons Foundation
