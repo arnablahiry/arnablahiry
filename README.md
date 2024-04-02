@@ -2,8 +2,8 @@
 
 - 😄 My pronouns: He/him
 - 🔭 Currently working on machine learning in astrophysics - [TITAN Project](https://spl.ics.forth.gr/titan)
-- 🌱 PhD at @ [Institute of Astrophysics](ia.forth.gr) - [Foundation for Research and Technology - Hellas (FORTH)]([url](https://www.forth.gr/en/home/))
-- ✨ Master's Dissertation @ at [CCA, Flatiron Institute, Simons Foundation]([url](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/))
+- 🌱 PhD at @ [Institute of Astrophysics](ia.forth.gr) - [Foundation for Research and Technology - Hellas (FORTH)](https://www.forth.gr/en/home/)
+- ✨ Master's Dissertation @ at [CCA, Flatiron Institute, Simons Foundation](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)
 - 📚 BS, MS (Physics) @ [Indian Institute of Science Education and Research, Tirupati](https://www.iisertirupati.ac.in/))
 - 💬 Please do not ask me about : my sleep schedule :)
 - 📫 Get in touch : [Instagram](instagram.com/spy.d_42), [Twitter](twitter.com/LahiryArnab), [Email](mailto:alahiry@ics.forth.gr)
