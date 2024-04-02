@@ -1,6 +1,5 @@
 ## Hello there!
 
-- 😄 My pronouns: He/him
 - 🔭 Currently working on machine learning in astrophysics - [TITAN Project](https://spl.ics.forth.gr/titan)
 - 🌱 PhD at @ [Institute of Astrophysics](ia.forth.gr) - [Foundation for Research and Technology - Hellas (FORTH)](https://www.forth.gr/en/home/)
 - ✨ Master's Dissertation @ at [CCA, Flatiron Institute, Simons Foundation](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)
