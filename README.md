@@ -6,5 +6,5 @@
 - 📚 BS, MS (Physics) @ [Indian Institute of Science Education and Research (IISER), Tirupati](https://www.iisertirupati.ac.in/)
 - 💬 Please do not ask me about : my sleep schedule :)
 - 📫 Get in touch : [Instagram](instagram.com/spy.d_42), [Twitter](twitter.com/LahiryArnab), [Email](mailto:alahiry@ics.forth.gr)
-- ⚡ Fun facts about me : Did you know that Balrogs used to be Mair who were corrupted by the fell Ainur, Morgoth, during the creation of Ard-
+- Did you know that Balrogs used to be Mair who were corrupted by the fell Ainur, Morgoth, during the creation of Ard-
 
