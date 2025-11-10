@@ -3,4 +3,6 @@
 - ✨ Master's Dissertation @ [CCA, Flatiron Institute, Simons Foundation](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)
 - 📚 BS, MS (Physics) @ [Indian Institute of Science Education and Research (IISER), Tirupati](https://www.iisertirupati.ac.in/)
 - 📫 Get in touch : [Instagram](instagram.com/spy.d_42), [Twitter](twitter.com/LahiryArnab), [Email](mailto:alahiry@ics.forth.gr)
+- https://www.cosmostat.org/people/arnab-lahiry
+- https://spl.ics.forth.gr/titan/people/arnab-lahiry.html
 
